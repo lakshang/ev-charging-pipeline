@@ -43,7 +43,7 @@ The final processed dataset provides attributes such as:
 - Geographic filters (e.g., Central London)
 - Snapshot timestamps for historical comparison
 
-## Technology (Flexible)
+## Technology
 
 The pipeline can be executed using:
 - Python
@@ -52,9 +52,3 @@ The pipeline can be executed using:
 - Looker Studio
 
 No specific infrastructure is required to understand or extend the project.
-
-## Status
-
-This project is actively being developed. Contributions and improvements are welcome.
-
-## Li
